@@ -33,7 +33,7 @@ export default function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="https://radiant-labs.gitbook.io/radiant" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</a>
+                <a href="http://docs.radiantkit.xyz/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</a>
               </li>
             </ul>
           </div>
