@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home',
-  description: 'RadiantKit',
+  title: 'RadiantKit | Home',
+  description: 'Build Graphic Apps 10x Faster!',
 }
 
 import Hero from '@/components/hero'
