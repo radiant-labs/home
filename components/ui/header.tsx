@@ -37,7 +37,7 @@ export default function Header() {
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link href="https://github.com/radiant-labs/radiant" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">GitHub</Link>
+                <Link href="https://github.com/radiant-labs/radiantkit" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">GitHub</Link>
               </li>
               <li>
                 <Link href="http://docs.radiantkit.xyz/" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3">
